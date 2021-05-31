@@ -54,59 +54,59 @@ Thing: Car Wash
  */
 
 /*
-Thing 1)
+Thing 1) Concert venue
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of seats
+    2) number of drinks
+    3) number of workers
+    4) amount of electricity used
+    5) number of bands playing per week
 3 things it can do:
-    1)
-    2)
-    3)
+    1) provide entertainment
+    2) charge customer
+    3) provide food and meal services
  */
 
 /*
-Thing 2)
+Thing 2) rehearsal space
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of amps
+    2) number of bands using the space per week
+    3) amount of rent paid per week
+    4) amount of electricity consumed
+    5) number of cables
 3 things it can do:
-    1)
-    2)
-    3)
+    1) provide a space for bands to rehearse
+    2) provide a space for social gatherings
+    3) allow bands to play louder than at their home
  */
 
 /*
-Thing 3)
+Thing 3) disc golf course
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of players
+    2) number of discs
+    3) number of baskets
+    4) number of holes
+    5) number of spectators
 3 things it can do:
-    1)
-    2)
-    3)
+    1) provide a place to compete
+    2) provide a place to entertain spectators
+    3) charge players per round
  */
 
 /*
-Thing 4)
+Thing 4) arcade hall
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of arcade machines
+    2) number of coin operated slot machines
+    3) number of players
+    4) amount of lights
+    5) amount of electricity used
 3 things it can do:
-    1)
-    2)
-    3)
+    1) charge players
+    2) provide entertainment
+    3) host tournaments
  */
 
 
