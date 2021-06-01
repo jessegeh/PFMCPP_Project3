@@ -109,17 +109,17 @@ Thing 4) arcade hall
  */
 
 /*
-Thing 10)
+Thing 10) electric guitar
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) tone knob
+    2) volume knob
+    3) input jack
+    4) strings
+    5) pickups
 3 things it can do:
-    1)
-    2)
-    3)
+    1) make sound
+    2) change tone
+    3) mute sound
  */
 
 /*
