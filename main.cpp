@@ -130,87 +130,87 @@ Thing 4) arcade hall
  */
 
 /*
-Thing 5)
+Thing 5) sound mixing board
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) volume in dB
+    2) width in cm
+    3) power switch
+    4) weight in kg
+    5) channel selector
 3 things it can do:
-    1)
-    2)
-    3)
+    1) change volume
+    2) turn on/off
+    3) change the channel
  */
 
 /*
-Thing 6)
+Thing 6) light mixing board
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) channel selector
+    2) luminosity
+    3) color
+    4) amount of flicker
+    5) direction knob
 3 things it can do:
-    1)
-    2)
-    3)
+    1) change color of light
+    2) change the luminosity of light
+    3) change the direction of light
  */
 
 /*
-Thing 7)
+Thing 7) bar
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) bar stool
+    2) bar counter
+    3) fridge
+    4) shelf
+    5) cash register
 3 things it can do:
-    1)
-    2)
-    3)
+    1) charge customers
+    2) keep drinks cool
+    3) keep track of how many drinks bought
  */
 
 /*
-Thing 8)
+Thing 8) PA
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) volume of main unit in cm3
+    2) sound volume created in dB
+    3) power switch
+    4) number of cables
+    5) impendance in ohms
 3 things it can do:
-    1)
-    2)
-    3)
+    1) create sound
+    2) turn on power switch light
+    3) adjust volume
  */
 
 /*
-Thing 9)
+Thing 9) seating
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) height in cm
+    2) material of seating
+    3) area used in cm2
+    4) rotating dial for seat adjustment
+    5) cushion
 3 things it can do:
-    1)
-    2)
-    3)
+    1) adjust poster of person sitting
+    2) adjust height of seat
+    3) create a place for people to watch music without standing
  */
 
 /*
-Thing 10) electric guitar
+Thing 10) music venue
 5 properties:
-    1) tone knob
-    2) volume knob
-    3) input jack
-    4) strings
-    5) pickups
+    1) sound mixing board
+    2) light mixing board
+    3) bar
+    4) PA
+    5) seating
 3 things it can do:
-    1) make sound
-    2) change tone
-    3) mute sound
+    1) provide a place for customers to sit
+    2) make sound
+    3) create light
  */
 
 /*
